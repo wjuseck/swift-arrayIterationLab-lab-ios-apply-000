@@ -7,7 +7,7 @@
 
 ## Learning Objectives 
 
-* Create their own `for-in` loops where appropriate.
+* Create your own `for-in` loops where appropriate.
 * Use `enumerate()` to get the `index` and `element` from the array.
 * Create `Array` variables and constants and know how to use them.
 * Know how to create an `Array` of `Int`'s and `String`'s. 
@@ -29,3 +29,5 @@
 
 
 <a href='https://learn.co/lessons/ArrayIterationLab' data-visibility='hidden'>View this lesson on Learn.co</a>
+
+<p class='util--hide'>View <a href='https://learn.co/lessons/swift-arrayIterationLab-lab'>Playgrounds Lab: Iterating Over an Array</a> on Learn.co and start learning to code for free.</p>
