@@ -19,7 +19,7 @@
 
 * Open up the playground file and answer the listed questions writing your code below each question.
 * There are no tests associated with this playground file.
-* Make sure render documentation is checked off which you can do in the Hide or show Utilities pane in the top right of the playground file.
+* Make sure render documentation is checked off which can be done in the Hide or show Utilities pane.
 
 
 <p class='util--hide'>View <a href='https://learn.co/lessons/swift-arrayIterationLab-lab'>Playgrounds Lab: Iterating Over an Array</a> on Learn.co and start learning to code for free.</p>
