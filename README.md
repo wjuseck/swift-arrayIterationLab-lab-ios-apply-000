@@ -19,7 +19,7 @@
 
 * What exactly is a Playground file? A *playground* is an interactive Swift coding environment that evaluates each statement and displays results as updates are made, without the need to create project. Here's an example:
 
-![play](http://i.imgur.com/LXCQe5w.png)
+![play](http://i.imgur.com/WkyEc2G.png)
 
 * Notice how in the right pane, the playground file is able to compile and run this code *while* I'm typing it in. That's awesome and makes it a really great tool to learn how to code. As you move forward in your "learning how to program" career, if you're ever challenged with a topic or want to brush up on some material, create your own *playground* by launching Xcode and just start writing some code!
 
