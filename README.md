@@ -5,6 +5,13 @@
 
 > Excellence is never an accident. It is always the result of high intention, sincere effort, and intelligent execution; it represents the wise choice of many alternatives - choice, not chance, determines your destiny. -[Aristotle](https://en.wikipedia.org/wiki/Aristotle)
 
+
+## Overvuew 
+
+In this lab, you'll create, manipulate, and iterate over arrays. 
+
+## Playground Files
+
 * There's something slightly different about this lab compared to other labs. It's asking that you open up the .playground file included with this repository. In particular, the `ArrayIteration.playground` file.
 
 * When you open a playground file, it should look like this:
@@ -25,13 +32,13 @@
 
 ## Learning Objectives 
 
-* Create your own `for-in` loops where appropriate.
-* Use `enumerate()` to get the `index` and `element` from the array.
-* Create `Array` variables and constants and know how to use them.
-* Know how to create an `Array` of `Int`'s and `String`'s. 
-* Create functions that take in `Array`'s as arguments. 
-* Access elements of the `Array` using *subscript syntax*.
-* Change elements at a specific index using *subscript syntax*. 
+* Create `for-in` loops
+* Use `enumerate()` to get the `index` and `element` from the array
+* Create `Array` variables and constants and know how to use them
+* Know how to create an `Array` of `Int`'s and `String`'s
+* Create functions that take in `Array`'s as arguments
+* Access elements of the `Array` using *subscript syntax*
+* Change elements at a specific index using *subscript syntax* 
 
 ## Instructions
 
