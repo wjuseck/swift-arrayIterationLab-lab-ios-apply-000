@@ -15,7 +15,7 @@
  */
 // write your code here
 
-
+var ingredients: [String] = ["Chips", "Salsa", "Guacamole", "Red wine"]
 
 
 
@@ -25,7 +25,7 @@
  */
 // write your code here
 
-
+var numbers: [Int] = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10]
 
 
 
@@ -36,7 +36,9 @@
  */
 // write your code here
 
-
+for number in numbers {
+    print(number)
+}
 
 
 
@@ -47,7 +49,9 @@
  */
 // write your code here
 
-
+for ingredient in ingredients {
+    print(ingredient)
+}
 
 
 
@@ -58,9 +62,19 @@
  */
 // write your code here
 
+var names = ["Tom", "Michael", "Jim"]
 
+func greet(people: [String]) {
+for name in names {
+    if name == "Michael" {
+    print("Top of the morning Michael!")
+    } else {
+        print("Good morning \(name)")
+    }
+}
+}
 
-
+greet(people: names)
 
 
 /*: question6
@@ -70,6 +84,19 @@
 
 
 
+let grades = [10, 20, 30, 40, 50, 60, 70, 80, 90, 100]
+
+func belowFifty(tens: [Int]) -> [Int] {
+    var output = [0]
+    for number in tens {
+        if number < 50 {
+            output.append(number)
+        }
+    }
+    return output
+}
+
+belowFifty(tens: grades)
 
 //: Here is a [link](https://github.com/learn-co-curriculum/swift-arrayIterationLab-lab/blob/solution/ArrayIteration.playground/Pages/main.xcplaygroundpage/Contents.swift) to the solution.
 
